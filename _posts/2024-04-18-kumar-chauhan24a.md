@@ -1,0 +1,59 @@
+---
+title: " Dynamic Inter-treatment Information Sharing for Individualized Treatment
+  Effects Estimation "
+software: " https://github.com/jmdvinodjmd/HyperITE "
+abstract: " Estimation of individualized treatment effects (ITE) from observational
+  studies is a fundamental problem in causal inference and holds significant importance
+  across domains, including healthcare. However, limited observational datasets pose
+  challenges in reliable ITE estimation as data have to be split among treatment groups
+  to train an ITE learner. While information sharing among treatment groups can partially
+  alleviate the problem, there is currently no general framework for end-to-end information
+  sharing in ITE estimation. To tackle this problem, we propose a deep learning framework
+  based on ‘\\textit{soft weight sharing}’ to train ITE learners, enabling \\textit{dynamic
+  end-to-end} information sharing among treatment groups. The proposed framework complements
+  existing ITE learners, and introduces a new class of ITE learners, referred to as
+  \\textit{HyperITE}. We extend state-of-the-art ITE learners with \\textit{HyperITE}
+  versions and evaluate them on IHDP, ACIC-2016, and Twins benchmarks. Our experimental
+  results show that the proposed framework improves ITE estimation error, with increasing
+  effectiveness for smaller datasets. "
+layout: inproceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: kumar-chauhan24a
+month: 0
+tex_title: " Dynamic Inter-treatment Information Sharing for Individualized Treatment
+  Effects Estimation "
+firstpage: 3529
+lastpage: 3537
+page: 3529-3537
+order: 3529
+cycles: false
+bibtex_author: Kumar Chauhan, Vinod and Zhou, Jiandong and Ghosheh, Ghadeer and Molaei,
+  Soheila and A Clifton, David
+author:
+- given: Vinod
+  family: Kumar Chauhan
+- given: Jiandong
+  family: Zhou
+- given: Ghadeer
+  family: Ghosheh
+- given: Soheila
+  family: Molaei
+- given: David
+  family: A Clifton
+date: 2024-04-18
+address:
+container-title: Proceedings of The 27th International Conference on Artificial Intelligence
+  and Statistics
+volume: '238'
+genre: inproceedings
+issued:
+  date-parts:
+  - 2024
+  - 4
+  - 18
+pdf: https://proceedings.mlr.press/v238/kumar-chauhan24a/kumar-chauhan24a.pdf
+extras: []
+# Format based on Martin Fenner's citeproc: https://blog.front-matter.io/posts/citeproc-yaml-for-bibliographies/
+---
