@@ -1,7 +1,7 @@
 ---
-title: " Discriminator Guidance for Autoregressive Diffusion Models "
-software: " https://github.com/filipekstrm/graph_ardm "
-abstract: " We introduce discriminator guidance in the setting of Autoregressive Diffusion
+title: Discriminator Guidance for Autoregressive Diffusion Models
+software: https://github.com/filipekstrm/graph_ardm
+abstract: We introduce discriminator guidance in the setting of Autoregressive Diffusion
   Models. The use of a discriminator to guide a diffusion process has previously been
   used for continuous diffusion models, and in this work we derive ways of using a
   discriminator together with a pretrained generative model in the discrete case.
@@ -11,14 +11,14 @@ abstract: " We introduce discriminator guidance in the setting of Autoregressive
   Monte Carlo algorithm which iteratively takes the predictions from the discriminator
   into account during the generation process. We test these approaches on the task
   of generating molecular graphs and show how the discriminator improves the generative
-  performance over using only the pretrained model. "
+  performance over using only the pretrained model.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: ekstrom-kelvinius24a
 month: 0
-tex_title: " Discriminator Guidance for Autoregressive Diffusion Models "
+tex_title: Discriminator Guidance for Autoregressive Diffusion Models
 firstpage: 3403
 lastpage: 3411
 page: 3403-3411

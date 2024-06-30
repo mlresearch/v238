@@ -1,7 +1,6 @@
 ---
-title: " Learning a Fourier Transform for Linear Relative Positional Encodings in
-  Transformers "
-abstract: " We propose a new class of linear Transformers called FourierLearner-Transformers
+title: Learning a Fourier Transform for Linear Relative Positional Encodings in Transformers
+abstract: We propose a new class of linear Transformers called FourierLearner-Transformers
   (FLTs), which incorporate a wide range of relative positional encoding mechanisms
   (RPEs). These include regular RPE techniques applied for sequential data, as well
   as novel RPEs operating on geometric data embedded in higher-dimensional Euclidean
@@ -15,15 +14,15 @@ abstract: " We propose a new class of linear Transformers called FourierLearner-
   for language modeling. We also thoroughly test FLTs on other data modalities and
   tasks, such as image classification, 3D molecular modeling, and learnable optimizers.
   To the best of our knowledge, for 3D molecular data, FLTs are the first Transformer
-  architectures providing linear attention and incorporating RPE masking. "
+  architectures providing linear attention and incorporating RPE masking.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: choromanski24a
 month: 0
-tex_title: " Learning a {F}ourier Transform for Linear Relative Positional Encodings
-  in Transformers "
+tex_title: Learning a {F}ourier Transform for Linear Relative Positional Encodings
+  in Transformers
 firstpage: 2278
 lastpage: 2286
 page: 2278-2286

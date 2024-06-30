@@ -1,7 +1,7 @@
 ---
-title: " SDEs for Minimax Optimization "
-software: " https://github.com/eneamc/MinimaxSDEs "
-abstract: " Minimax optimization problems have attracted a lot of attention over the
+title: SDEs for Minimax Optimization
+software: https://github.com/eneamc/MinimaxSDEs
+abstract: Minimax optimization problems have attracted a lot of attention over the
   past few years, with applications ranging from economics to machine learning. While
   advanced optimization methods exist for such problems, characterizing their dynamics
   in stochastic scenarios remains notably challenging. In this paper, we pioneer the
@@ -13,14 +13,14 @@ abstract: " Minimax optimization problems have attracted a lot of attention over
   also allows for a unified and simplified analysis strategy based on the principles
   of Itô calculus. Finally, our approach facilitates the derivation of convergence
   conditions and closed-form solutions for the dynamics in simplified settings, unveiling
-  further insights into the behavior of different optimizers. "
+  further insights into the behavior of different optimizers.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: monzio-compagnoni24a
 month: 0
-tex_title: " {SDE}s for Minimax Optimization "
+tex_title: "{SDE}s for Minimax Optimization"
 firstpage: 4834
 lastpage: 4842
 page: 4834-4842

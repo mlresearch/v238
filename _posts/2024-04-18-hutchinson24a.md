@@ -1,7 +1,7 @@
 ---
-title: " Directional Optimism for Safe Linear Bandits "
-software: " https://github.com/shutch1/Directional-Optimism-for-Safe-Linear-Bandits "
-abstract: " The safe linear bandit problem is a version of the classical stochastic
+title: Directional Optimism for Safe Linear Bandits
+software: https://github.com/shutch1/Directional-Optimism-for-Safe-Linear-Bandits
+abstract: The safe linear bandit problem is a version of the classical stochastic
   linear bandit problem where the learner’s actions must satisfy an uncertain constraint
   at all rounds. Due its applicability to many real-world settings, this problem has
   received considerable attention in recent years. By leveraging a novel approach
@@ -12,14 +12,14 @@ abstract: " The safe linear bandit problem is a version of the classical stochas
   while enjoying matching regret guarantees. Lastly, we introduce a generalization
   of the safe linear bandit setting where the constraints are convex and adapt our
   algorithms and analyses to this setting by leveraging a novel convex-analysis based
-  approach. "
+  approach.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: hutchinson24a
 month: 0
-tex_title: " Directional Optimism for Safe Linear Bandits "
+tex_title: Directional Optimism for Safe Linear Bandits
 firstpage: 658
 lastpage: 666
 page: 658-666

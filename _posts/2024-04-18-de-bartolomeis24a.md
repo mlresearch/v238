@@ -1,8 +1,8 @@
 ---
-title: " Hidden yet quantifiable: A lower bound for confounding strength using randomized
-  trials "
-software: " https://github.com/jaabmar/confounder-lower-bound "
-abstract: " In the era of fast-paced precision medicine, observational studies play
+title: 'Hidden yet quantifiable: A lower bound for confounding strength using randomized
+  trials'
+software: https://github.com/jaabmar/confounder-lower-bound
+abstract: In the era of fast-paced precision medicine, observational studies play
   a major role in properly evaluating new treatments in clinical practice. Yet, unobserved
   confounding can significantly compromise causal conclusions drawn from non-randomized
   data. We propose a novel strategy that leverages randomized trials to quantify unobserved
@@ -11,15 +11,15 @@ abstract: " In the era of fast-paced precision medicine, observational studies p
   lower bound on the unobserved confounding strength. We evaluate the power and validity
   of our statistical test on several synthetic and semi-synthetic datasets. Further,
   we show how our lower bound can correctly identify the absence and presence of unobserved
-  confounding in a real-world example. "
+  confounding in a real-world example.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: de-bartolomeis24a
 month: 0
-tex_title: " Hidden yet quantifiable: A lower bound for confounding strength using
-  randomized trials "
+tex_title: 'Hidden yet quantifiable: A lower bound for confounding strength using
+  randomized trials'
 firstpage: 1045
 lastpage: 1053
 page: 1045-1053

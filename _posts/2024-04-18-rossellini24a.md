@@ -1,8 +1,8 @@
 ---
-title: " Integrating Uncertainty Awareness into Conformalized Quantile Regression "
-software: " https://github.com/rrross/UACQR "
-abstract: " Conformalized Quantile Regression (CQR) is a recently proposed method
-  for constructing prediction intervals for a response $Y$ given covariates $X$, without
+title: Integrating Uncertainty Awareness into Conformalized Quantile Regression
+software: https://github.com/rrross/UACQR
+abstract: 'Conformalized Quantile Regression (CQR) is a recently proposed method for
+  constructing prediction intervals for a response $Y$ given covariates $X$, without
   making distributional assumptions. However, existing constructions of CQR can be
   ineffective for problems where the quantile regressors perform better in certain
   parts of the feature space than others. The reason is that the prediction intervals
@@ -15,14 +15,14 @@ abstract: " Conformalized Quantile Regression (CQR) is a recently proposed metho
   two sources of uncertainty to adjust quantile regressors differentially across the
   feature space. Compared to CQR, our methods enjoy the same distribution-free theoretical
   coverage guarantees, while demonstrating in our experiments stronger conditional
-  coverage properties in simulated settings and real-world data sets alike. "
+  coverage properties in simulated settings and real-world data sets alike.'
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: rossellini24a
 month: 0
-tex_title: " Integrating Uncertainty Awareness into Conformalized Quantile Regression "
+tex_title: Integrating Uncertainty Awareness into Conformalized Quantile Regression
 firstpage: 1540
 lastpage: 1548
 page: 1540-1548

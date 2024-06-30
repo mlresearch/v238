@@ -1,6 +1,6 @@
 ---
-title: " Offline Primal-Dual Reinforcement Learning for Linear MDPs "
-abstract: " Offline Reinforcement Learning (RL) aims to learn a near-optimal policy
+title: Offline Primal-Dual Reinforcement Learning for Linear MDPs
+abstract: Offline Reinforcement Learning (RL) aims to learn a near-optimal policy
   from a fixed dataset of transitions collected by another policy. This problem has
   attracted a lot of attention recently, but most existing methods with strong theoretical
   guarantees are restricted to finite-horizon or tabular settings. In contrast, few
@@ -12,18 +12,18 @@ abstract: " Offline Reinforcement Learning (RL) aims to learn a near-optimal pol
   on the linear programming formulation of RL. Our key contribution is a new reparametrization
   that allows us to derive low-variance gradient estimators that can be used in a
   stochastic optimization scheme using only samples from the behavior policy. Our
-  method finds an $\\varepsilon$-optimal policy with $O(\\varepsilon^{-4})$ samples,
+  method finds an $\varepsilon$-optimal policy with $O(\varepsilon^{-4})$ samples,
   while being computationally efficient for infinite-horizon discounted and average-reward
   MDPs with realizable linear function approximation and partial coverage. Moreover,
   to the best of our knowledge, this is the first theoretical result for average-reward
-  offline RL. "
+  offline RL.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: gabbianelli24a
 month: 0
-tex_title: " Offline Primal-Dual Reinforcement Learning for Linear {MDPs} "
+tex_title: Offline Primal-Dual Reinforcement Learning for Linear {MDPs}
 firstpage: 3169
 lastpage: 3177
 page: 3169-3177

@@ -1,8 +1,8 @@
 ---
-title: " Stochastic Extragradient with Random Reshuffling: Improved Convergence for
-  Variational Inequalities "
-software: " https://github.com/emmanouilidisk/Stochastic-ExtraGradient-with-Random-Reshuffling "
-abstract: " The Stochastic Extragradient (SEG) method is one of the most popular algorithms
+title: 'Stochastic Extragradient with Random Reshuffling: Improved Convergence for
+  Variational Inequalities'
+software: https://github.com/emmanouilidisk/Stochastic-ExtraGradient-with-Random-Reshuffling
+abstract: 'The Stochastic Extragradient (SEG) method is one of the most popular algorithms
   for solving finite-sum min-max optimization and variational inequality problems
   (VIPs) appearing in various machine learning tasks. However, existing convergence
   analyses of SEG focus on its with-replacement variants, while practical implementations
@@ -18,15 +18,15 @@ abstract: " The Stochastic Extragradient (SEG) method is one of the most popular
   SEG (shuffles the data only at the beginning of the algorithm) and the Incremental
   Extragradient (does not shuffle the data). We supplement our analysis with experiments
   validating empirically the superior performance of SEG-RR over the classical with-replacement
-  sampling SEG. "
+  sampling SEG.'
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: emmanouilidis24a
 month: 0
-tex_title: " Stochastic Extragradient with Random Reshuffling: Improved Convergence
-  for Variational Inequalities "
+tex_title: 'Stochastic Extragradient with Random Reshuffling: Improved Convergence
+  for Variational Inequalities'
 firstpage: 3682
 lastpage: 3690
 page: 3682-3690

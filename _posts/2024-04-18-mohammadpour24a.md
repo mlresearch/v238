@@ -1,7 +1,7 @@
 ---
-title: " Maximum entropy GFlowNets with soft Q-learning "
-software: " https://github.com/recursionpharma/gflownet "
-abstract: " Generative Flow Networks (GFNs) have emerged as a powerful tool for sampling
+title: Maximum entropy GFlowNets with soft Q-learning
+software: https://github.com/recursionpharma/gflownet
+abstract: Generative Flow Networks (GFNs) have emerged as a powerful tool for sampling
   discrete objects from unnormalized distributions, offering a scalable alternative
   to Markov Chain Monte Carlo (MCMC) methods. While GFNs draw inspiration from maximum
   entropy reinforcement learning (RL), the connection between the two has largely
@@ -10,14 +10,14 @@ abstract: " Generative Flow Networks (GFNs) have emerged as a powerful tool for 
   an exact relationship between GFNs and maximum entropy RL. This construction allows
   us to introduce maximum entropy GFNs, which achieve the maximum entropy attainable
   by GFNs without constraints on the state space, in contrast to GFNs with uniform
-  backward policy. "
+  backward policy.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: mohammadpour24a
 month: 0
-tex_title: " Maximum entropy {GFlowNets} with soft {Q}-learning "
+tex_title: Maximum entropy {GFlowNets} with soft {Q}-learning
 firstpage: 2593
 lastpage: 2601
 page: 2593-2601

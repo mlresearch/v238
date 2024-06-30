@@ -1,7 +1,7 @@
 ---
-title: " Autoregressive Bandits "
-software: " https://github.com/gianmarcogenalti/autoregressive-bandits "
-abstract: " Autoregressive processes naturally arise in a large variety of real-world
+title: Autoregressive Bandits
+software: https://github.com/gianmarcogenalti/autoregressive-bandits
+abstract: Autoregressive processes naturally arise in a large variety of real-world
   scenarios, including stock markets, sales forecasting, weather prediction, advertising,
   and pricing. When facing a sequential decision-making problem in such a context,
   the temporal dependence between consecutive observations should be properly accounted
@@ -11,18 +11,18 @@ abstract: " Autoregressive processes naturally arise in a large variety of real-
   on the chosen action. We show that, under mild assumptions on the reward process,
   the optimal policy can be conveniently computed. Then, we devise a new optimistic
   regret minimization algorithm, namely, AutoRegressive Upper Confidence Bound (AR-UCB),
-  that suffers sublinear regret of order $\\tilde{O} ( \\frac{(k+1)^{3/2}\\sqrt{nT}}{(1-\\Gamma)^2}
-  )$, where $T$ is the optimization horizon, $n$ is the number of actions, and $\\Gamma
+  that suffers sublinear regret of order $\tilde{O} ( \frac{(k+1)^{3/2}\sqrt{nT}}{(1-\Gamma)^2}
+  )$, where $T$ is the optimization horizon, $n$ is the number of actions, and $\Gamma
   < 1$ is a stability index of the process. Finally, we empirically validate our algorithm,
   illustrating its advantages w.r.t. bandit baselines and its robustness to misspecification
-  of key parameters. "
+  of key parameters.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: bacchiocchi24a
 month: 0
-tex_title: " Autoregressive Bandits "
+tex_title: Autoregressive Bandits
 firstpage: 937
 lastpage: 945
 page: 937-945

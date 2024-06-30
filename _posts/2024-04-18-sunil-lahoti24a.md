@@ -1,7 +1,7 @@
 ---
-title: " Sharpened Lazy Incremental Quasi-Newton Method "
-software: " https://github.com/aakashlahoti/sliqn "
-abstract: " The problem of minimizing the sum of $n$ functions in $d$ dimensions is
+title: Sharpened Lazy Incremental Quasi-Newton Method
+software: https://github.com/aakashlahoti/sliqn
+abstract: 'The problem of minimizing the sum of $n$ functions in $d$ dimensions is
   ubiquitous in machine learning and statistics. In many applications where the number
   of observations $n$ is large, it is necessary to use incremental or stochastic methods,
   as their per-iteration cost is independent of $n$. Of these, Quasi-Newton (QN) methods
@@ -21,14 +21,14 @@ abstract: " The problem of minimizing the sum of $n$ functions in $d$ dimensions
   lazy propagation strategy, which enables it to have a cost of $O(d^2)$. Additionally,
   our experiments demonstrate the superiority of SLIQN over other incremental and
   stochastic Quasi-Newton variants and establish its competitiveness with second-order
-  incremental methods. "
+  incremental methods.'
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: sunil-lahoti24a
 month: 0
-tex_title: " Sharpened Lazy Incremental Quasi-{N}ewton Method "
+tex_title: Sharpened Lazy Incremental Quasi-{N}ewton Method
 firstpage: 4735
 lastpage: 4743
 page: 4735-4743

@@ -1,7 +1,7 @@
 ---
-title: " Sinkhorn Flow as Mirror Flow: A Continuous-Time Framework for Generalizing
-  the Sinkhorn Algorithm "
-abstract: ' Many problems in machine learning can be formulated as solving entropy-regularized
+title: 'Sinkhorn Flow as Mirror Flow: A Continuous-Time Framework for Generalizing
+  the Sinkhorn Algorithm'
+abstract: Many problems in machine learning can be formulated as solving entropy-regularized
   optimal transport on the space of probability measures. The canonical approach involves
   the Sinkhorn iterates, renowned for their rich mathematical properties. Recently,
   the Sinkhorn algorithm has been recast within the mirror descent framework, thus
@@ -11,15 +11,15 @@ abstract: ' Many problems in machine learning can be formulated as solving entro
   to noise and bias. Moreover, our continuous-time dynamics offers a unified perspective
   on several recently discovered dynamics in machine learning and mathematics, such
   as the "Wasserstein mirror flow" of Deb et al. (2023) or the "mean-field Schrödinger
-  equation" of Claisse et al. (2023). '
+  equation" of Claisse et al. (2023).
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: reza-karimi24a
 month: 0
-tex_title: " Sinkhorn Flow as Mirror Flow: A Continuous-Time Framework for Generalizing
-  the {S}inkhorn Algorithm "
+tex_title: 'Sinkhorn Flow as Mirror Flow: A Continuous-Time Framework for Generalizing
+  the {S}inkhorn Algorithm'
 firstpage: 4186
 lastpage: 4194
 page: 4186-4194

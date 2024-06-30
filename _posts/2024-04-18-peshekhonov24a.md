@@ -1,7 +1,7 @@
 ---
-title: " Training a Tucker Model With Shared Factors: a Riemannian Optimization Approach "
-software: " https://github.com/johanDDC/tucker_riemopt "
-abstract: " Factorization of a matrix into a product of two rectangular factors, is
+title: 'Training a Tucker Model With Shared Factors: a Riemannian Optimization Approach'
+software: https://github.com/johanDDC/tucker_riemopt
+abstract: Factorization of a matrix into a product of two rectangular factors, is
   a classic tool in various machine learning applications. Tensor factorizations generalize
   this concept to more than two dimensions. In applications, where some of the tensor
   dimensions have the same size or encode the same objects (e.g., knowledge graphs
@@ -15,15 +15,15 @@ abstract: " Factorization of a matrix into a product of two rectangular factors,
   we develop efficient algorithms for the main ingredients of Riemannian optimization
   on the SF-Tucker manifold and implement a Riemannian optimization method with momentum.
   We showcase the benefits of our approach on several machine learning tasks including
-  knowledge graph completion and compression of neural networks. "
+  knowledge graph completion and compression of neural networks.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: peshekhonov24a
 month: 0
-tex_title: " Training a {T}ucker Model With Shared Factors: a {R}iemannian Optimization
-  Approach "
+tex_title: 'Training a {T}ucker Model With Shared Factors: a {R}iemannian Optimization
+  Approach'
 firstpage: 3304
 lastpage: 3312
 page: 3304-3312

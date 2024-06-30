@@ -1,23 +1,23 @@
 ---
-title: " Delegating Data Collection in Decentralized Machine Learning "
-abstract: " Motivated by the emergence of decentralized machine learning (ML) ecosystems,
+title: Delegating Data Collection in Decentralized Machine Learning
+abstract: 'Motivated by the emergence of decentralized machine learning (ML) ecosystems,
   we study the delegation of data collection. Taking the field of contract theory
   as our starting point, we design optimal and near-optimal contracts that deal with
   two fundamental information asymmetries that arise in decentralized ML: uncertainty
   in the assessment of model quality and uncertainty regarding the optimal performance
   of any model. We show that a principal can cope with such asymmetry via simple linear
-  contracts that achieve $1-1/\\epsilon$ fraction of the optimal utility. To address
+  contracts that achieve $1-1/\epsilon$ fraction of the optimal utility. To address
   the lack of a priori knowledge regarding the optimal performance, we give a convex
   program that can adaptively and efficiently compute the optimal contract. We also
   analyze the optimal utility and linear contracts for the more complex setting of
-  multiple interactions. "
+  multiple interactions.'
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: ananthakrishnan24a
 month: 0
-tex_title: " Delegating Data Collection in Decentralized Machine Learning "
+tex_title: Delegating Data Collection in Decentralized Machine Learning
 firstpage: 478
 lastpage: 486
 page: 478-486

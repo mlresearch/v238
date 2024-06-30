@@ -1,7 +1,7 @@
 ---
-title: " Taming Nonconvex Stochastic Mirror Descent with General Bregman Divergence "
-abstract: " This paper revisits the convergence of Stochastic Mirror Descent (SMD)
-  in the contemporary nonconvex optimization setting. Existing results for batch-free
+title: Taming Nonconvex Stochastic Mirror Descent with General Bregman Divergence
+abstract: This paper revisits the convergence of Stochastic Mirror Descent (SMD) in
+  the contemporary nonconvex optimization setting. Existing results for batch-free
   nonconvex SMD restrict the choice of the distance generating function (DGF) to be
   differentiable with Lipschitz continuous gradients, thereby excluding important
   setups such as Shannon entropy. In this work, we present a new convergence analysis
@@ -15,14 +15,14 @@ abstract: " This paper revisits the convergence of Stochastic Mirror Descent (SM
   learning tasks by harnessing nonsmooth DGFs. Notably, in the context of nonconvex
   differentially private (DP) learning, our theory yields a simple algorithm with
   a (nearly) dimension-independent utility bound. For the problem of training linear
-  neural networks, we develop provably convergent stochastic algorithms. "
+  neural networks, we develop provably convergent stochastic algorithms.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: fatkhullin24a
 month: 0
-tex_title: " Taming Nonconvex Stochastic Mirror Descent with General {B}regman Divergence "
+tex_title: Taming Nonconvex Stochastic Mirror Descent with General {B}regman Divergence
 firstpage: 3493
 lastpage: 3501
 page: 3493-3501

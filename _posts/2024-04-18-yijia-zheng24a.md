@@ -1,8 +1,8 @@
 ---
-title: " Graph Machine Learning through the Lens of Bilevel Optimization "
-software: " https://github.com/amberyzheng/BloomGML "
-abstract: " Bilevel optimization refers to scenarios whereby the optimal solution
-  of a lower-level energy function serves as input features to an upper-level objective
+title: Graph Machine Learning through the Lens of Bilevel Optimization
+software: https://github.com/amberyzheng/BloomGML
+abstract: Bilevel optimization refers to scenarios whereby the optimal solution of
+  a lower-level energy function serves as input features to an upper-level objective
   of interest. These optimal features typically depend on tunable parameters of the
   lower-level energy in such a way that the entire bilevel pipeline can be trained
   end-to-end. Although not generally presented as such, this paper demonstrates how
@@ -18,14 +18,14 @@ abstract: " Bilevel optimization refers to scenarios whereby the optimal solutio
   MLP models. And finally, we present supporting empirical results that demonstrate
   the versatility of the proposed bilevel lens, which we refer to as BloomGML, referencing
   that BiLevel Optimization Offers More Graph Machine Learning. Our code is available
-  at \\url{https://github.com/amberyzheng/BloomGML}. Let graph ML bloom. "
+  at \url{https://github.com/amberyzheng/BloomGML}. Let graph ML bloom.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: yijia-zheng24a
 month: 0
-tex_title: " Graph Machine Learning through the Lens of Bilevel Optimization "
+tex_title: Graph Machine Learning through the Lens of Bilevel Optimization
 firstpage: 982
 lastpage: 990
 page: 982-990

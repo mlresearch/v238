@@ -1,7 +1,7 @@
 ---
-title: " Making Better Use of Unlabelled Data in Bayesian Active Learning "
-software: " https://github.com/fbickfordsmith/epig "
-abstract: " Fully supervised models are predominant in Bayesian active learning. We
+title: Making Better Use of Unlabelled Data in Bayesian Active Learning
+software: https://github.com/fbickfordsmith/epig
+abstract: Fully supervised models are predominant in Bayesian active learning. We
   argue that their neglect of the information present in unlabelled data harms not
   just predictive performance but also decisions about what data to acquire. Our proposed
   solution is a simple framework for semi-supervised Bayesian active learning. We
@@ -9,14 +9,14 @@ abstract: " Fully supervised models are predominant in Bayesian active learning.
   learning or semi-supervised learning with randomly acquired data. It is also easier
   to scale up than the conventional approach. As well as supporting a shift towards
   semi-supervised models, our findings highlight the importance of studying models
-  and acquisition methods in conjunction. "
+  and acquisition methods in conjunction.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: bickford-smith24a
 month: 0
-tex_title: " Making Better Use of Unlabelled Data in {B}ayesian Active Learning "
+tex_title: Making Better Use of Unlabelled Data in {B}ayesian Active Learning
 firstpage: 847
 lastpage: 855
 page: 847-855
