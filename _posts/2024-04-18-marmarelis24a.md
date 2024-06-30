@@ -1,8 +1,8 @@
 ---
-title: " Policy Learning for Localized Interventions from Observational Data "
-software: " https://github.com/marmarelis/nudge-policies "
-abstract: " A largely unaddressed problem in causal inference is that of learning
-  reliable policies in continuous, high-dimensional treatment variables from observational
+title: Policy Learning for Localized Interventions from Observational Data
+software: https://github.com/marmarelis/nudge-policies
+abstract: A largely unaddressed problem in causal inference is that of learning reliable
+  policies in continuous, high-dimensional treatment variables from observational
   data. Especially in the presence of strong confounding, it can be infeasible to
   learn the entire heterogeneous response surface from treatment to outcome. It is
   also not particularly useful, when there are practical constraints on the size of
@@ -13,14 +13,14 @@ abstract: " A largely unaddressed problem in causal inference is that of learnin
   estimator plugs into a policy learner that stays within the interventional scope
   by optimal transport. Consequently, the error of the total policy effect is restricted
   to prediction errors nearby the observational distribution, rather than the whole
-  response surface. "
+  response surface.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: marmarelis24a
 month: 0
-tex_title: " Policy Learning for Localized Interventions from Observational Data "
+tex_title: Policy Learning for Localized Interventions from Observational Data
 firstpage: 4456
 lastpage: 4464
 page: 4456-4464

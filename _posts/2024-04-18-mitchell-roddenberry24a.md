@@ -1,6 +1,6 @@
 ---
-title: " An Impossibility Theorem for Node Embedding "
-abstract: " With the increasing popularity of graph-based methods for dimensionality
+title: An Impossibility Theorem for Node Embedding
+abstract: With the increasing popularity of graph-based methods for dimensionality
   reduction and representation learning, node embedding functions have become important
   objects of study in the literature. In this paper, we take an axiomatic approach
   to understanding node embedding methods. Motivated by desirable properties of node
@@ -9,14 +9,14 @@ abstract: " With the increasing popularity of graph-based methods for dimensiona
   no node embedding method can satisfy all three properties at once, reflecting fundamental
   difficulties inherent to the task. Having identified these difficulties, we show
   that mild relaxations of these axioms allow for certain node embedding methods to
-  be admissible. "
+  be admissible.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: mitchell-roddenberry24a
 month: 0
-tex_title: " An Impossibility Theorem for Node Embedding "
+tex_title: An Impossibility Theorem for Node Embedding
 firstpage: 2422
 lastpage: 2430
 page: 2422-2430

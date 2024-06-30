@@ -1,8 +1,8 @@
 ---
-title: " Efficient Quantum Agnostic Improper Learning of Decision Trees "
-abstract: " The agnostic setting is the hardest generalization of the PAC model since
+title: Efficient Quantum Agnostic Improper Learning of Decision Trees
+abstract: The agnostic setting is the hardest generalization of the PAC model since
   it is akin to learning with adversarial noise. In this paper, we give a poly $(n,
-  t, 1/\\epsilon)$ quantum algorithm for learning size $t$ decision trees over $n$-bit
+  t, 1/\epsilon)$ quantum algorithm for learning size $t$ decision trees over $n$-bit
   inputs with uniform marginal over instances, in the agnostic setting, without membership
   queries (MQ). This is the first algorithm (classical or quantum) for efficiently
   learning decision trees without MQ. First, we construct a quantum agnostic weak
@@ -13,14 +13,14 @@ abstract: " The agnostic setting is the hardest generalization of the PAC model 
   adaptive quantum boosting algorithms). We then use the quantum agnostic boosting
   algorithm to boost the weak quantum agnostic learner constructed previously to obtain
   a quantum agnostic learner for decision trees. Using the above framework, we also
-  give quantum decision tree learning algorithms without MQ in weaker noise models. "
+  give quantum decision tree learning algorithms without MQ in weaker noise models.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: chatterjee24a
 month: 0
-tex_title: " Efficient Quantum Agnostic Improper Learning of Decision Trees "
+tex_title: Efficient Quantum Agnostic Improper Learning of Decision Trees
 firstpage: 514
 lastpage: 522
 page: 514-522

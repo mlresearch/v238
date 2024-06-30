@@ -1,11 +1,11 @@
 ---
-title: " autoMALA: Locally adaptive Metropolis-adjusted Langevin algorithm "
-software: " https://github.com/Julia-Tempering/autoMALA-mev "
-abstract: " Selecting the step size for the Metropolis-adjusted Langevin algorithm
-  (MALA) is necessary in order to obtain satisfactory performance. However, finding
-  an adequate step size for an arbitrary target distribution can be a difficult task
-  and even the best step size can perform poorly in specific regions of the space
-  when the target distribution is sufficiently complex. To resolve this issue we introduce
+title: 'autoMALA: Locally adaptive Metropolis-adjusted Langevin algorithm'
+software: https://github.com/Julia-Tempering/autoMALA-mev
+abstract: Selecting the step size for the Metropolis-adjusted Langevin algorithm (MALA)
+  is necessary in order to obtain satisfactory performance. However, finding an adequate
+  step size for an arbitrary target distribution can be a difficult task and even
+  the best step size can perform poorly in specific regions of the space when the
+  target distribution is sufficiently complex. To resolve this issue we introduce
   autoMALA, a new Markov chain Monte Carlo algorithm based on MALA that automatically
   sets its step size at each iteration based on the local geometry of the target distribution.
   We prove that autoMALA has the correct invariant distribution, despite continual
@@ -14,14 +14,14 @@ abstract: " Selecting the step size for the Metropolis-adjusted Langevin algorit
   of log density evaluations per effective sample, and it outperforms state-of-the-art
   samplers on targets with varying geometries. Furthermore, we find that autoMALA
   tends to find step sizes comparable to optimally-tuned MALA when a fixed step size
-  suffices for the whole domain. "
+  suffices for the whole domain.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: biron-lattes24a
 month: 0
-tex_title: " {autoMALA}: Locally adaptive {M}etropolis-adjusted {L}angevin algorithm "
+tex_title: "{autoMALA}: Locally adaptive {M}etropolis-adjusted {L}angevin algorithm"
 firstpage: 4600
 lastpage: 4608
 page: 4600-4608

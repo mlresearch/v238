@@ -1,8 +1,8 @@
 ---
-title: " Spectrum Extraction and Clipping for Implicitly Linear Layers "
-software: " https://github.com/Ali-E/FastClip "
-abstract: " We show the effectiveness of automatic differentiation in efficiently
-  and correctly computing and controlling the spectrum of implicitly linear operators,
+title: Spectrum Extraction and Clipping for Implicitly Linear Layers
+software: https://github.com/Ali-E/FastClip
+abstract: We show the effectiveness of automatic differentiation in efficiently and
+  correctly computing and controlling the spectrum of implicitly linear operators,
   a rich family of layer types including all standard convolutional and dense layers.
   We provide the first clipping method which is correct for general convolution layers,
   and illuminate the representational limitation that caused correctness issues in
@@ -11,14 +11,14 @@ abstract: " We show the effectiveness of automatic differentiation in efficientl
   composition. By comparing the accuracy and performance of our algorithms to the
   state-of-the-art methods, using various experiments, we show they are more precise
   and efficient and lead to better generalization and adversarial robustness. We provide
-  the code for using our methods at https://github.com/Ali-E/FastClip. "
+  the code for using our methods at https://github.com/Ali-E/FastClip.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: ebrahimpour-boroojeny24a
 month: 0
-tex_title: " Spectrum Extraction and Clipping for Implicitly Linear Layers "
+tex_title: Spectrum Extraction and Clipping for Implicitly Linear Layers
 firstpage: 2971
 lastpage: 2979
 page: 2971-2979

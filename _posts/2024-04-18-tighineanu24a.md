@@ -1,10 +1,10 @@
 ---
-title: " Scalable Meta-Learning with Gaussian Processes "
-software: " https://github.com/boschresearch/Scalable-Meta-Learning-with-Gaussian-Processes "
-abstract: " Meta-learning is a powerful approach that exploits historical data to
-  quickly solve new tasks from the same distribution. In the low-data regime, methods
-  based on the closed-form posterior of Gaussian processes (GP) together with Bayesian
-  optimization have achieved high performance. However, these methods are either computationally
+title: Scalable Meta-Learning with Gaussian Processes
+software: https://github.com/boschresearch/Scalable-Meta-Learning-with-Gaussian-Processes
+abstract: Meta-learning is a powerful approach that exploits historical data to quickly
+  solve new tasks from the same distribution. In the low-data regime, methods based
+  on the closed-form posterior of Gaussian processes (GP) together with Bayesian optimization
+  have achieved high performance. However, these methods are either computationally
   expensive or introduce assumptions that hinder a principled propagation of uncertainty
   between task models. This may disrupt the balance between exploration and exploitation
   during optimization. In this paper, we develop ScaML-GP, a modular GP model for
@@ -13,14 +13,14 @@ abstract: " Meta-learning is a powerful approach that exploits historical data t
   scalability. Conditioning ScaML-GP on the meta-data exposes its modular nature yielding
   a test-task prior that combines the posteriors of meta-task GPs. In synthetic and
   real-world meta-learning experiments, we demonstrate that ScaML-GP can learn efficiently
-  both with few and many meta-tasks. "
+  both with few and many meta-tasks.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: tighineanu24a
 month: 0
-tex_title: " Scalable Meta-Learning with {G}aussian Processes "
+tex_title: Scalable Meta-Learning with {G}aussian Processes
 firstpage: 1981
 lastpage: 1989
 page: 1981-1989

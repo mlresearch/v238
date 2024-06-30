@@ -1,7 +1,7 @@
 ---
-title: " Consistent and Asymptotically Unbiased Estimation of Proper Calibration Errors "
-software: " https://github.com/tpopordanoska/proper-calibration-error "
-abstract: " Proper scoring rules evaluate the quality of probabilistic predictions,
+title: Consistent and Asymptotically Unbiased Estimation of Proper Calibration Errors
+software: https://github.com/tpopordanoska/proper-calibration-error
+abstract: Proper scoring rules evaluate the quality of probabilistic predictions,
   playing an essential role in the pursuit of accurate and well-calibrated models.
   Every proper score decomposes into two fundamental components – proper calibration
   error and refinement – utilizing a Bregman divergence. While uncertainty calibration
@@ -14,15 +14,15 @@ abstract: " Proper scoring rules evaluate the quality of probabilistic predictio
   information monotonicity in neural networks, regardless of which proper scoring
   rule is optimized. Our experiments validate empirically the claimed properties of
   the proposed estimator and suggest that the selection of a post-hoc calibration
-  method should be determined by the particular calibration error of interest. "
+  method should be determined by the particular calibration error of interest.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: popordanoska24a
 month: 0
-tex_title: " Consistent and Asymptotically Unbiased Estimation of Proper Calibration
-  Errors "
+tex_title: Consistent and Asymptotically Unbiased Estimation of Proper Calibration
+  Errors
 firstpage: 3466
 lastpage: 3474
 page: 3466-3474

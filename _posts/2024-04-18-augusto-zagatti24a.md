@@ -1,7 +1,7 @@
 ---
-title: " Learning multivariate temporal point processes via the time-change theorem "
-software: " https://github.com/NUS-IDS/multi-ttpp "
-abstract: " Marked temporal point processes (TPPs) are a class of stochastic processes
+title: Learning multivariate temporal point processes via the time-change theorem
+software: https://github.com/NUS-IDS/multi-ttpp
+abstract: Marked temporal point processes (TPPs) are a class of stochastic processes
   that describe the occurrence of a countable number of marked events over continuous
   time. In machine learning, the most common representation of marked TPPs is the
   univariate TPP coupled with a conditional mark distribution. Alternatively, we can
@@ -12,14 +12,14 @@ abstract: " Marked temporal point processes (TPPs) are a class of stochastic pro
   neither on Monte Carlo approximation for the compensator nor on thinning for sampling.
   Therefore, we have a generative model that can efficiently sample the next event
   given a history of past events. Our models show strong alignment between the percentiles
-  of the distribution expected from theory and the empirical ones. "
+  of the distribution expected from theory and the empirical ones.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: augusto-zagatti24a
 month: 0
-tex_title: " Learning multivariate temporal point processes via the time-change theorem "
+tex_title: Learning multivariate temporal point processes via the time-change theorem
 firstpage: 3241
 lastpage: 3249
 page: 3241-3249

@@ -1,8 +1,8 @@
 ---
-title: " Neural Additive Models for Location Scale and Shape: A Framework for Interpretable
-  Neural Regression Beyond the Mean "
-software: " https://github.com/AnFreTh/NAMpy "
-abstract: " Deep neural networks (DNNs) have proven to be highly effective in a variety
+title: 'Neural Additive Models for Location Scale and Shape: A Framework for Interpretable
+  Neural Regression Beyond the Mean'
+software: https://github.com/AnFreTh/NAMpy
+abstract: 'Deep neural networks (DNNs) have proven to be highly effective in a variety
   of tasks, making them the go-to method for problems requiring high-level predictive
   power. Despite this success, the inner workings of DNNs are often not transparent,
   making them difficult to interpret or understand. This lack of interpretability
@@ -14,15 +14,15 @@ abstract: " Deep neural networks (DNNs) have proven to be highly effective in a 
   Models for Location Scale and Shape (NAMLSS), a modelling framework that combines
   the predictive power of classical deep learning models with the inherent advantages
   of distributional regression while maintaining the interpretability of additive
-  models. The code is available at the following link: \\url{https://github.com/AnFreTh/NAMpy} "
+  models. The code is available at the following link: \url{https://github.com/AnFreTh/NAMpy}'
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: frederik-thielmann24a
 month: 0
-tex_title: " Neural Additive Models for Location Scale and Shape: A Framework for
-  Interpretable Neural Regression Beyond the Mean "
+tex_title: 'Neural Additive Models for Location Scale and Shape: A Framework for Interpretable
+  Neural Regression Beyond the Mean'
 firstpage: 1783
 lastpage: 1791
 page: 1783-1791

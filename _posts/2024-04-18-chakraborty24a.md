@@ -1,24 +1,24 @@
 ---
-title: " PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model "
-software: " https://github.com/anirbanc96/PrIsing "
-abstract: " The Ising model, originally developed as a spin-glass model for ferromagnetic
+title: 'PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model'
+software: https://github.com/anirbanc96/PrIsing
+abstract: 'The Ising model, originally developed as a spin-glass model for ferromagnetic
   elements, has gained popularity as a network-based model for capturing dependencies
   in agents’ outputs. Its increasing adoption in healthcare and the social sciences
   has raised privacy concerns regarding the confidentiality of agents’ responses.
-  In this paper, we present a novel $(\\varepsilon,\\delta)$-differentially private
+  In this paper, we present a novel $(\varepsilon,\delta)$-differentially private
   algorithm specifically designed to protect the privacy of individual agents’ outcomes.
   Our algorithm allows for precise estimation of the natural parameter using a single
   network through an objective perturbation technique. Furthermore, we establish regret
   bounds for this algorithm and assess its performance on synthetic datasets and two
   real-world networks: one involving HIV status in a social network and the other
-  concerning the political leaning of online blogs. "
+  concerning the political leaning of online blogs.'
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: chakraborty24a
 month: 0
-tex_title: " Pr{I}sing: Privacy-Preserving Peer Effect Estimation via {I}sing Model "
+tex_title: 'Pr{I}sing: Privacy-Preserving Peer Effect Estimation via {I}sing Model'
 firstpage: 2692
 lastpage: 2700
 page: 2692-2700

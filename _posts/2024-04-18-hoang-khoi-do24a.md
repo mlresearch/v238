@@ -1,8 +1,8 @@
 ---
-title: " MIM-Reasoner: Learning with Theoretical Guarantees for Multiplex Influence
-  Maximization "
-software: " https://github.com/nguyendohoangkhoiUF/MIM-Reasoner "
-abstract: " Multiplex influence maximization (MIM) asks us to identify a set of seed
+title: 'MIM-Reasoner: Learning with Theoretical Guarantees for Multiplex Influence
+  Maximization'
+software: https://github.com/nguyendohoangkhoiUF/MIM-Reasoner
+abstract: Multiplex influence maximization (MIM) asks us to identify a set of seed
   users such as to maximize the expected number of influenced users in a multiplex
   network. MIM has been one of central research topics, especially in nowadays social
   networking landscape where users participate in multiple online social networks
@@ -14,15 +14,15 @@ abstract: " Multiplex influence maximization (MIM) asks us to identify a set of 
   captures the complex propagation process within and between layers of a given multiplex
   network, thereby tackling the most challenging problem in MIM. We establish a theoretical
   guarantee for MIM-Reasoner as well as conduct extensive analyses on both synthetic
-  and real-world datasets to validate our MIM-Reasoner’s performance. "
+  and real-world datasets to validate our MIM-Reasoner’s performance.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: hoang-khoi-do24a
 month: 0
-tex_title: " MIM-Reasoner: Learning with Theoretical Guarantees for Multiplex Influence
-  Maximization "
+tex_title: 'MIM-Reasoner: Learning with Theoretical Guarantees for Multiplex Influence
+  Maximization'
 firstpage: 2296
 lastpage: 2304
 page: 2296-2304

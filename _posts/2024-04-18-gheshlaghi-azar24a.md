@@ -1,6 +1,6 @@
 ---
-title: " A General Theoretical Paradigm to Understand Learning from Human Preferences "
-abstract: " The prevalent deployment of learning from human preferences through reinforcement
+title: A General Theoretical Paradigm to Understand Learning from Human Preferences
+abstract: 'The prevalent deployment of learning from human preferences through reinforcement
   learning (RLHF) relies on two important approximations: the first assumes that pairwise
   preferences can be substituted with pointwise rewards. The second assumes that a
   reward model trained on these pointwise rewards can generalize from collected data
@@ -9,21 +9,21 @@ abstract: " The prevalent deployment of learning from human preferences through 
   learn directly a policy from collected data without the reward modelling stage.
   However, this method still heavily relies on the first approximation. In this paper
   we try to gain a deeper theoretical understanding of these practical algorithms.
-  In particular we derive a new general objective called ${\\Psi}$PO for learning
-  from human preferences that is expressed in terms of pairwise preferences and therefore
+  In particular we derive a new general objective called ${\Psi}$PO for learning from
+  human preferences that is expressed in terms of pairwise preferences and therefore
   bypasses both approximations. This new general objective allows us to perform an
-  in-depth analysis of the behavior of RLHF and DPO (as special cases of ${\\Psi}$PO)
+  in-depth analysis of the behavior of RLHF and DPO (as special cases of ${\Psi}$PO)
   and to identify their potential pitfalls. We then consider another special case
-  for ${\\Psi}$PO by setting $\\Psi$ simply to Identity, for which we can derive an
+  for ${\Psi}$PO by setting $\Psi$ simply to Identity, for which we can derive an
   efficient optimisation procedure, prove performance guarantees and demonstrate its
-  empirical superiority to DPO on some illustrative examples. "
+  empirical superiority to DPO on some illustrative examples.'
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: gheshlaghi-azar24a
 month: 0
-tex_title: " A General Theoretical Paradigm to Understand Learning from Human Preferences "
+tex_title: A General Theoretical Paradigm to Understand Learning from Human Preferences
 firstpage: 4447
 lastpage: 4455
 page: 4447-4455

@@ -1,8 +1,8 @@
 ---
-title: " Robust Non-linear Normalization of Heterogeneous Feature Distributions with
-  Adaptive Tanh-Estimators "
-software: " https://github.com/FelipGC/Heterogeneous-Feature-Normalization "
-abstract: " Feature normalization is a crucial step in machine learning that scales
+title: Robust Non-linear Normalization of Heterogeneous Feature Distributions with
+  Adaptive Tanh-Estimators
+software: https://github.com/FelipGC/Heterogeneous-Feature-Normalization
+abstract: Feature normalization is a crucial step in machine learning that scales
   numerical values to improve model effectiveness. Noisy or impure datasets can pose
   a challenge for traditional normalization methods as they may contain outliers that
   violate statistical assumptions, leading to reduced model performance and increased
@@ -16,15 +16,15 @@ abstract: " Feature normalization is a crucial step in machine learning that sca
   starts, thus reducing or eliminating the need to re-adjust model weights during
   early training phases due to inadequately scaled features. Empirical evaluation
   was done on synthetic data, standard toy computer vision datasets, and a real-world
-  numeric tabular dataset. "
+  numeric tabular dataset.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: guimera-cuevas24a
 month: 0
-tex_title: " Robust Non-linear Normalization of Heterogeneous Feature Distributions
-  with Adaptive Tanh-Estimators "
+tex_title: Robust Non-linear Normalization of Heterogeneous Feature Distributions
+  with Adaptive Tanh-Estimators
 firstpage: 406
 lastpage: 414
 page: 406-414

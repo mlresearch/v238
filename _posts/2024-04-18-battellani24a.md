@@ -1,7 +1,7 @@
 ---
-title: " Dissimilarity Bandits "
-software: " https://github.com/paolob2/sed "
-abstract: " We study a novel sequential decision-making setting, namely the dissimilarity
+title: Dissimilarity Bandits
+software: https://github.com/paolob2/sed
+abstract: We study a novel sequential decision-making setting, namely the dissimilarity
   bandits. At each round, the learner pulls an arm that provides a stochastic d-dimensional
   observation vector. The learner aims to identify the pair of arms with the maximum
   dissimilarity, where such an index is computed over pairs of expected observation
@@ -16,14 +16,14 @@ abstract: " We study a novel sequential decision-making setting, namely the diss
   problem for dissimilarity bandits, which is almost matched by our SED. Finally,
   we compare our approach over synthetically generated data and a realistic environmental
   monitoring domain against classical and combinatorial best-arm identification algorithms
-  for the cases $d=1$ and $d>1$. "
+  for the cases $d=1$ and $d>1$.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: battellani24a
 month: 0
-tex_title: " Dissimilarity Bandits "
+tex_title: Dissimilarity Bandits
 firstpage: 3637
 lastpage: 3645
 page: 3637-3645

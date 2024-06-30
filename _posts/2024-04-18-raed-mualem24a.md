@@ -1,6 +1,6 @@
 ---
-title: " Submodular Minimax Optimization: Finding Effective Sets "
-abstract: " Despite the rich existing literature about minimax optimization in continuous
+title: 'Submodular Minimax Optimization: Finding Effective Sets'
+abstract: Despite the rich existing literature about minimax optimization in continuous
   settings, only very partial results of this kind have been obtained for combinatorial
   settings. In this paper, we fill this gap by providing a characterization of submodular
   minimax optimization, the problem of finding a set (for either the min or the max
@@ -10,14 +10,14 @@ abstract: " Despite the rich existing literature about minimax optimization in c
   such as (i) prompt engineering in large language models, (ii) identifying robust
   waiting locations for ride-sharing, (iii) kernelization of the difficulty of instances
   of the last setting, and (iv) finding adversarial images. Our experiments show that
-  our proposed algorithms consistently outperform other baselines. "
+  our proposed algorithms consistently outperform other baselines.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: raed-mualem24a
 month: 0
-tex_title: " Submodular Minimax Optimization: Finding Effective Sets "
+tex_title: 'Submodular Minimax Optimization: Finding Effective Sets'
 firstpage: 1081
 lastpage: 1089
 page: 1081-1089

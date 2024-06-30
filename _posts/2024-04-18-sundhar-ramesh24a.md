@@ -1,8 +1,8 @@
 ---
-title: " Distributionally Robust Model-based Reinforcement Learning with Large State
-  Spaces "
-software: " https://github.com/rsshyam/MVR-RFQI "
-abstract: " Three major challenges in reinforcement learning are the complex dynamical
+title: Distributionally Robust Model-based Reinforcement Learning with Large State
+  Spaces
+software: https://github.com/rsshyam/MVR-RFQI
+abstract: Three major challenges in reinforcement learning are the complex dynamical
   systems with large state spaces, the costly data acquisition processes, and the
   deviation of real-world dynamics from the training environment deployment. To overcome
   these issues, we study distributionally robust Markov decision processes with continuous
@@ -17,15 +17,15 @@ abstract: " Three major challenges in reinforcement learning are the complex dyn
   can be further combined with other model-free distributionally robust reinforcement
   learning methods to obtain a near-optimal robust policy. Experimental results demonstrate
   the robustness of our algorithm to distributional shifts and its superior performance
-  in terms of the number of samples needed. "
+  in terms of the number of samples needed.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: sundhar-ramesh24a
 month: 0
-tex_title: " Distributionally Robust Model-based Reinforcement Learning with Large
-  State Spaces "
+tex_title: Distributionally Robust Model-based Reinforcement Learning with Large State
+  Spaces
 firstpage: 100
 lastpage: 108
 page: 100-108

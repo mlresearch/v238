@@ -1,6 +1,6 @@
 ---
-title: " Graph Partitioning with a Move Budget "
-abstract: " In many real world networks, there already exists a (not necessarily optimal)
+title: Graph Partitioning with a Move Budget
+abstract: In many real world networks, there already exists a (not necessarily optimal)
   $k$-partitioning of the network. Oftentimes, for such networks, one aims to find
   a $k$-partitioning with a smaller cut value by moving only a few nodes across partitions.
   The number of nodes that can be moved across partitions is often a constraint forced
@@ -12,14 +12,14 @@ abstract: " In many real world networks, there already exists a (not necessarily
   by moving at most $r$ non-terminal nodes to partitions different from their initial
   ones. Our main result is a polynomial time $3(r+1)$ approximation algorithm for
   this problem. We further show that this problem is $W[1]$-hard, and give an FPTAS
-  for when $r$ is a small constant. "
+  for when $r$ is a small constant.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: dalirrooyfard24a
 month: 0
-tex_title: " Graph Partitioning with a Move Budget "
+tex_title: Graph Partitioning with a Move Budget
 firstpage: 568
 lastpage: 576
 page: 568-576

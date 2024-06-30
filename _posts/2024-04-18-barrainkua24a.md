@@ -1,8 +1,8 @@
 ---
-title: " Uncertainty Matters: Stable Conclusions under Unstable Assessment of Fairness
-  Results "
-software: " https://github.com/abarrainkua/UncertaintyMatters "
-abstract: " Recent studies highlight the effectiveness of Bayesian methods in assessing
+title: 'Uncertainty Matters: Stable Conclusions under Unstable Assessment of Fairness
+  Results'
+software: https://github.com/abarrainkua/UncertaintyMatters
+abstract: Recent studies highlight the effectiveness of Bayesian methods in assessing
   algorithm performance, particularly in fairness and bias evaluation. We present
   Uncertainty Matters, a multi-objective uncertainty-aware algorithmic comparison
   framework. In fairness focused scenarios, it models sensitive group confusion matrices
@@ -13,15 +13,15 @@ abstract: " Recent studies highlight the effectiveness of Bayesian methods in as
   information is carried out through a procedure tailored to the classifier’s complexity.
   Experiments demonstrate that the insights derived from algorithmic comparisons employing
   the Uncertainty Matters approach are more informative, reliable, and less influenced
-  by particular data partitions. Code for the paper is publicly available at \\url{https://github.com/abarrainkua/UncertaintyMatters}. "
+  by particular data partitions. Code for the paper is publicly available at \url{https://github.com/abarrainkua/UncertaintyMatters}.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: barrainkua24a
 month: 0
-tex_title: " Uncertainty Matters: Stable Conclusions under Unstable Assessment of
-  Fairness Results "
+tex_title: 'Uncertainty Matters: Stable Conclusions under Unstable Assessment of Fairness
+  Results'
 firstpage: 1198
 lastpage: 1206
 page: 1198-1206

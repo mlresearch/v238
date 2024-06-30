@@ -1,8 +1,8 @@
 ---
-title: " Quantifying Uncertainty in Natural Language Explanations of Large Language
-  Models "
-software: " https://github.com/harsha070/uncertainty-quantification-nle "
-abstract: " Large Language Models (LLMs) are increasingly used as powerful tools for
+title: Quantifying Uncertainty in Natural Language Explanations of Large Language
+  Models
+software: https://github.com/harsha070/uncertainty-quantification-nle
+abstract: Large Language Models (LLMs) are increasingly used as powerful tools for
   several high-stakes natural language processing (NLP) applications. Recent prompting
   works claim to elicit intermediate reasoning steps and key tokens that serve as
   proxy explanations for LLM predictions. However, there is no certainty whether these
@@ -18,15 +18,15 @@ abstract: " Large Language Models (LLMs) are increasingly used as powerful tools
   explanation, with lower uncertainty corresponding to explanations with higher faithfulness.
   Our study provides insights into the challenges and opportunities of quantifying
   uncertainty in LLM explanations, contributing to the broader discussion of the trustworthiness
-  of foundation models. "
+  of foundation models.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: harsha-tanneru24a
 month: 0
-tex_title: " Quantifying Uncertainty in Natural Language Explanations of Large Language
-  Models "
+tex_title: Quantifying Uncertainty in Natural Language Explanations of Large Language
+  Models
 firstpage: 1072
 lastpage: 1080
 page: 1072-1080

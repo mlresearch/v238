@@ -1,11 +1,11 @@
 ---
-title: " Learning Latent Partial Matchings with Gumbel-IPF Networks "
-software: " https://github.com/HeddaCohenIndelman/Learning-Latent-Partial-Matchings-with-Gumbel-IPF-Networks "
-abstract: " Learning to match discrete objects has been a central task in machine
-  learning, often facilitated by a continuous relaxation of the matching structure.
-  However, practical problems entail partial matchings due to missing correspondences,
-  which pose difficulties to the one-to-one matching learning techniques that dominate
-  the state-of-the-art. This paper introduces Gumbel-IPF networks for learning latent
+title: Learning Latent Partial Matchings with Gumbel-IPF Networks
+software: https://github.com/HeddaCohenIndelman/Learning-Latent-Partial-Matchings-with-Gumbel-IPF-Networks
+abstract: Learning to match discrete objects has been a central task in machine learning,
+  often facilitated by a continuous relaxation of the matching structure. However,
+  practical problems entail partial matchings due to missing correspondences, which
+  pose difficulties to the one-to-one matching learning techniques that dominate the
+  state-of-the-art. This paper introduces Gumbel-IPF networks for learning latent
   partial matchings. At the core of our method is the differentiable Iterative Proportional
   Fitting (IPF) procedure that biproportionally projects onto the transportation polytope
   of target marginals. Our theoretical framework also allows drawing samples from
@@ -13,14 +13,14 @@ abstract: " Learning to match discrete objects has been a central task in machin
   of common-practice relaxations through the lens of biproportional fitting and introduce
   a new metric, the empirical prediction shift. Our method’s advantages are demonstrated
   in experimental results on the semantic keypoints partial matching task on the Pascal
-  VOC, IMC-PT-SparseGM, and CUB2001 datasets. "
+  VOC, IMC-PT-SparseGM, and CUB2001 datasets.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: cohen-indelman24a
 month: 0
-tex_title: " Learning Latent Partial Matchings with {G}umbel-{IPF} Networks "
+tex_title: Learning Latent Partial Matchings with {G}umbel-{IPF} Networks
 firstpage: 1513
 lastpage: 1521
 page: 1513-1521

@@ -1,6 +1,6 @@
 ---
-title: " On the Nyström Approximation for Preconditioning in Kernel Machines "
-abstract: " Kernel methods are a popular class of nonlinear predictive models in machine
+title: On the Nyström Approximation for Preconditioning in Kernel Machines
+abstract: Kernel methods are a popular class of nonlinear predictive models in machine
   learning. Scalable algorithms for learning kernel models need to be iterative in
   nature, but convergence can be slow due to poor conditioning. Spectral preconditioning
   is an important tool to speed-up the convergence of such iterative algorithms for
@@ -12,14 +12,14 @@ abstract: " Kernel methods are a popular class of nonlinear predictive models in
   such an approximated preconditioner. Specifically, we show that a sample of logarithmic
   size (as a function of the size of the dataset) enables the Nyström-based approximated
   preconditioner to accelerate gradient descent nearly as well as the exact preconditioner,
-  while also reducing the computational and storage overheads. "
+  while also reducing the computational and storage overheads.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: abedsoltan24a
 month: 0
-tex_title: " On the {N}yström Approximation for Preconditioning in Kernel Machines "
+tex_title: On the {N}yström Approximation for Preconditioning in Kernel Machines
 firstpage: 3718
 lastpage: 3726
 page: 3718-3726

@@ -1,7 +1,7 @@
 ---
-title: " Score Operator Newton transport "
-software: " https://doi.org/10.5281/zenodo.10307262 "
-abstract: " We propose a new approach for sampling and Bayesian computation that uses
+title: Score Operator Newton transport
+software: https://doi.org/10.5281/zenodo.10307262
+abstract: We propose a new approach for sampling and Bayesian computation that uses
   the score of the target distribution to construct a transport from a given reference
   distribution to the target. Our approach is an infinite-dimensional Newton method,
   involving an elliptic PDE, for finding a zero of a “score-residual” operator. We
@@ -9,14 +9,14 @@ abstract: " We propose a new approach for sampling and Bayesian computation that
   iterates can be computed by exploiting fast solvers for elliptic PDEs, resulting
   in new algorithms for Bayesian inference and other sampling tasks. We identify elementary
   settings where score-operator Newton transport achieves fast convergence while avoiding
-  mode collapse. "
+  mode collapse.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: chandramoorthy24a
 month: 0
-tex_title: " Score Operator {N}ewton transport "
+tex_title: Score Operator {N}ewton transport
 firstpage: 3349
 lastpage: 3357
 page: 3349-3357

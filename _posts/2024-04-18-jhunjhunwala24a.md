@@ -1,8 +1,8 @@
 ---
-title: " FedFisher: Leveraging Fisher Information for One-Shot Federated Learning "
-software: " https://github.com/Divyansh03/FedFisher "
-abstract: " Standard federated learning (FL) algorithms typically require multiple
-  rounds of communication between the server and the clients, which has several drawbacks,
+title: 'FedFisher: Leveraging Fisher Information for One-Shot Federated Learning'
+software: https://github.com/Divyansh03/FedFisher
+abstract: Standard federated learning (FL) algorithms typically require multiple rounds
+  of communication between the server and the clients, which has several drawbacks,
   including requiring constant network connectivity, repeated investment of computational
   resources, and susceptibility to privacy attacks. One-Shot FL is a new paradigm
   that aims to address this challenge by enabling the server to train a global model
@@ -16,14 +16,14 @@ abstract: " Standard federated learning (FL) algorithms typically require multip
   approximation for the full Fisher and highlight their communication and compute
   efficiency for FL. Finally, we conduct extensive experiments on various datasets,
   which show that these variants of FedFisher consistently improve over competing
-  baselines. "
+  baselines.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: jhunjhunwala24a
 month: 0
-tex_title: " {FedFisher}: Leveraging {F}isher Information for One-Shot Federated Learning "
+tex_title: "{FedFisher}: Leveraging {F}isher Information for One-Shot Federated Learning"
 firstpage: 1612
 lastpage: 1620
 page: 1612-1620

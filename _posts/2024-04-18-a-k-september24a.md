@@ -1,8 +1,8 @@
 ---
-title: " Extended Deep Adaptive Input Normalization for Preprocessing Time Series
-  Data for Neural Networks "
-software: " https://github.com/marcusGH/edain_paper "
-abstract: " Data preprocessing is a crucial part of any machine learning pipeline,
+title: Extended Deep Adaptive Input Normalization for Preprocessing Time Series Data
+  for Neural Networks
+software: https://github.com/marcusGH/edain_paper
+abstract: 'Data preprocessing is a crucial part of any machine learning pipeline,
   and it can have a significant impact on both performance and training efficiency.
   This is especially evident when using deep neural networks for time series prediction
   and classification: real-world time series data often exhibit irregularities such
@@ -16,15 +16,15 @@ abstract: " Data preprocessing is a crucial part of any machine learning pipelin
   synthetic data, a credit default prediction dataset, and a large-scale limit order
   book benchmark dataset, demonstrate the superior performance of the EDAIN layer
   when compared to conventional normalization methods and existing adaptive time series
-  preprocessing layers. "
+  preprocessing layers.'
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: a-k-september24a
 month: 0
-tex_title: " Extended Deep Adaptive Input Normalization for Preprocessing Time Series
-  Data for Neural Networks "
+tex_title: Extended Deep Adaptive Input Normalization for Preprocessing Time Series
+  Data for Neural Networks
 firstpage: 1891
 lastpage: 1899
 page: 1891-1899

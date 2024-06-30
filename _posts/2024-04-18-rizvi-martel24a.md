@@ -1,9 +1,9 @@
 ---
-title: " Simulating weighted automata over sequences and trees with transformers "
-software: " https://github.com/michaelrizvi/wfa2tf "
-abstract: " Transformers are ubiquitous models in the natural language processing
-  (NLP) community and have shown impressive empirical successes in the past few years.
-  However, little is understood about how they reason and the limits of their computational
+title: Simulating weighted automata over sequences and trees with transformers
+software: https://github.com/michaelrizvi/wfa2tf
+abstract: 'Transformers are ubiquitous models in the natural language processing (NLP)
+  community and have shown impressive empirical successes in the past few years. However,
+  little is understood about how they reason and the limits of their computational
   capabilities. These models do not process data sequentially, and yet outperform
   sequential neural models such as RNNs. Recent work has shown that these models can
   compactly simulate the sequential reasoning abilities of deterministic finite automata
@@ -15,14 +15,14 @@ abstract: " Transformers are ubiquitous models in the natural language processin
   on the size of the transformer models needed as a function of the number of states
   of the target automata. Empirically, we perform synthetic experiments showing that
   transformers are able to learn these compact solutions via standard gradient-based
-  training. "
+  training.'
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: rizvi-martel24a
 month: 0
-tex_title: " Simulating weighted automata over sequences and trees with transformers "
+tex_title: Simulating weighted automata over sequences and trees with transformers
 firstpage: 2368
 lastpage: 2376
 page: 2368-2376

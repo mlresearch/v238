@@ -1,7 +1,7 @@
 ---
-title: " Graph Pruning for Enumeration of Minimal Unsatisfiable Subsets "
-software: " https://github.com/tufts-ml/GRAPE-MUST "
-abstract: " Finding Minimal Unsatisfiable Subsets (MUSes) of boolean constraints is
+title: Graph Pruning for Enumeration of Minimal Unsatisfiable Subsets
+software: https://github.com/tufts-ml/GRAPE-MUST
+abstract: Finding Minimal Unsatisfiable Subsets (MUSes) of boolean constraints is
   a common problem in infeasibility analysis of over-constrained systems. However,
   because of the exponential search space of the problem, enumerating MUSes is extremely
   time-consuming in real applications. In this work, we propose to prune formulas
@@ -13,14 +13,14 @@ abstract: " Finding Minimal Unsatisfiable Subsets (MUSes) of boolean constraints
   our model with existing MUS enumerators and validate its effectiveness in multiple
   benchmarks including a set of real-world problems outside our training distribution.
   The experiment results show that our method significantly accelerates MUS enumeration
-  on average on these benchmark problems. "
+  on average on these benchmark problems.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: lymperopoulos24a
 month: 0
-tex_title: " Graph Pruning for Enumeration of Minimal Unsatisfiable Subsets "
+tex_title: Graph Pruning for Enumeration of Minimal Unsatisfiable Subsets
 firstpage: 2647
 lastpage: 2655
 page: 2647-2655

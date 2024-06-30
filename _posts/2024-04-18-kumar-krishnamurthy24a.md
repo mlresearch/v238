@@ -1,6 +1,6 @@
 ---
-title: " Towards Costless Model Selection in Contextual Bandits: A Bias-Variance Perspective "
-abstract: " Model selection in supervised learning provides costless guarantees as
+title: 'Towards Costless Model Selection in Contextual Bandits: A Bias-Variance Perspective'
+abstract: 'Model selection in supervised learning provides costless guarantees as
   if the model that best balances bias and variance was known a priori. We study the
   feasibility of similar guarantees for cumulative regret minimization in the stochastic
   contextual bandit setting. Recent work [Marinov and Zimmert, 2021] identifies instances
@@ -14,15 +14,15 @@ abstract: " Model selection in supervised learning provides costless guarantees 
   In particular, our algorithm and analysis go beyond adapting to the complexity of
   the simplest realizable class and instead adapt to the complexity of the simplest
   class whose estimation variance dominates the bias. For short horizons, this provides
-  improved regret guarantees that depend on the complexity of simpler classes. "
+  improved regret guarantees that depend on the complexity of simpler classes.'
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: kumar-krishnamurthy24a
 month: 0
-tex_title: " Towards Costless Model Selection in Contextual Bandits: A Bias-Variance
-  Perspective "
+tex_title: 'Towards Costless Model Selection in Contextual Bandits: A Bias-Variance
+  Perspective'
 firstpage: 2476
 lastpage: 2484
 page: 2476-2484

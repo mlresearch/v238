@@ -1,12 +1,12 @@
 ---
-title: " Intrinsic Gaussian Vector Fields on Manifolds "
-software: " https://github.com/DanielRobertNicoud/imv-gps "
-abstract: ' Various applications ranging from robotics to climate science require
-  modeling signals on non-Euclidean domains, such as the sphere. Gaussian process
-  models on manifolds have recently been proposed for such tasks, in particular when
-  uncertainty quantification is needed. In the manifold setting, vector-valued signals
-  can behave very differently from scalar-valued ones, with much of the progress so
-  far focused on modeling the latter. The former, however, are crucial for many applications,
+title: Intrinsic Gaussian Vector Fields on Manifolds
+software: https://github.com/DanielRobertNicoud/imv-gps
+abstract: 'Various applications ranging from robotics to climate science require modeling
+  signals on non-Euclidean domains, such as the sphere. Gaussian process models on
+  manifolds have recently been proposed for such tasks, in particular when uncertainty
+  quantification is needed. In the manifold setting, vector-valued signals can behave
+  very differently from scalar-valued ones, with much of the progress so far focused
+  on modeling the latter. The former, however, are crucial for many applications,
   such as modeling wind speeds or force fields of unknown dynamical systems. In this
   paper, we propose novel Gaussian process models for vector-valued signals on manifolds
   that are intrinsically defined and account for the geometry of the space in consideration.
@@ -15,14 +15,14 @@ abstract: ' Various applications ranging from robotics to climate science requir
   we highlight two generalization directions: discrete two-dimensional meshes and
   "ideal" manifolds like hyperspheres, Lie groups, and homogeneous spaces. Finally,
   we show that our Gaussian vector fields constitute considerably more refined inductive
-  biases than the extrinsic fields proposed before. '
+  biases than the extrinsic fields proposed before.'
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: robert-nicoud24a
 month: 0
-tex_title: " Intrinsic {G}aussian Vector Fields on Manifolds "
+tex_title: Intrinsic {G}aussian Vector Fields on Manifolds
 firstpage: 1306
 lastpage: 1314
 page: 1306-1314
