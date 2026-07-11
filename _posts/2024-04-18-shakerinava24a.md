@@ -26,13 +26,13 @@ lastpage: 4212
 page: 4204-4212
 order: 4204
 cycles: false
-bibtex_author: Shakerinava, Mehran and MS Sohrabi, Motahareh and Ravanbakhsh, Siamak
+bibtex_author: Shakerinava, Mehran and Sohrabi, Motahareh and Ravanbakhsh, Siamak
   and Lacoste-Julien, Simon
 author:
 - given: Mehran
   family: Shakerinava
 - given: Motahareh
-  family: MS Sohrabi
+  family: Sohrabi
 - given: Siamak
   family: Ravanbakhsh
 - given: Simon
